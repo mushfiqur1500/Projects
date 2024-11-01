@@ -1,0 +1,13 @@
+*{
+  text-align: center;
+  color: maroon;
+}
+
+#doc{
+  font-size: 20px;
+  color: cornflowerblue;
+}
+
+.type{
+  background-color: aquamarine;
+}
