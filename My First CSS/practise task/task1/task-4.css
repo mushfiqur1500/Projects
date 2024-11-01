@@ -1,0 +1,30 @@
+.co{
+  background-color: blue;
+  background-size: 10px;
+  border-radius: 900px;
+  padding-left: 20%;
+}
+.col{
+  background-color: magenta;
+  background-size: 30px;
+  border-radius: 900px;
+  padding-left: 30%;
+}
+.ba{
+  background-color: darkcyan;
+  background-size: 50px;
+  border-radius: 900px;
+  padding-left: 40%;
+}
+.ma{
+  background-color: salmon;
+  background-size: 70px;
+  border-radius: 900px;
+  padding-left: 50%;
+}
+.ap{
+  background-color: darkorange;
+  background-size: 90px;
+  border-radius: 9000px;
+  padding-left: 60%;
+}
