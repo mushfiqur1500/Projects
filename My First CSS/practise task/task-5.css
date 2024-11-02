@@ -1,0 +1,35 @@
+.text1{
+  background-color: brown;
+  width: 150px;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  box-shadow: 5px 10px greenyellow;
+
+}
+
+.text2{
+  background-color: sandybrown;
+  width: 150px;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  box-shadow: 5px 10px red;
+}
+
+.text3{
+  background-color: coral;
+  width: 150px;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  box-shadow: 5px 10px hotpink;
+}
+
+
+.parent{
+  display: flex;
+  gap: 20px;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
