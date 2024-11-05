@@ -2,6 +2,12 @@
   padding: 25px;
   background-color: burlywood;
   display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  height: 350px;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .child{
